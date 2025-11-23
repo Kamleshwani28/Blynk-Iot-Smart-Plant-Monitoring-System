@@ -25,11 +25,8 @@ Data is sent to the **Blynk IoT App**, where users can monitor plant health and 
 - Relay Module (optional for pump)  
 - Power Supply  
 
-## 🛠️ Circuit Diagram  
-(Add circuit diagram image here)  
-```
-![Screenshot](https://github.com/Kamleshwani28/Blynk-Iot-Smart-Plant-Monitoring-System/blob/741506e2e311b5fa7506a23d7f41be6c1fd73168/images/c901e7_8ce6589b43264e76ab364ecf26f2842c~mv2%20(2).png)
-```
+## 🛠️ Circuit Diagram
+![image alt](https://github.com/Kamleshwani28/Blynk-Iot-Smart-Plant-Monitoring-System/blob/32a75bcf22316973f05da8c1323e88b10423dd37/images/Circuit%20Diagram.png) 
 
 ## 📲 Blynk Setup  
 1. Create a new template  
