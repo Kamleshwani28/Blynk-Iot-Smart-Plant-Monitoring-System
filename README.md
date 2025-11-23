@@ -28,7 +28,7 @@ Data is sent to the **Blynk IoT App**, where users can monitor plant health and 
 ## 🛠️ Circuit Diagram  
 (Add circuit diagram image here)  
 ```
-/images/circuit-diagram.jpg
+images/c901e7_8ce6589b43264e76ab364ecf26f2842c~mv2 (2).png
 ```
 
 ## 📲 Blynk Setup  
